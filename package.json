@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "author": "DiscordGod",
-  "license": "ISC",
+  "license": "",
   "dependencies": {
     "geodist": "^0.2.1"
   }
