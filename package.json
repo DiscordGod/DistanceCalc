@@ -1,0 +1,11 @@
+{
+  "name": "distancecalc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "DiscordGod",
+  "license": "ISC",
+  "dependencies": {
+    "geodist": "^0.2.1"
+  }
+}
