@@ -3,8 +3,7 @@ var geodist = require('geodist')
 var stdin = process.openStdin();
 
 stdin.addListener("data", function(d) {
-    d = d.toString().trim()
-    var url = d
+    var url = d.toString().trim()
     var lat1 = "LATOFSTART"
     var long1 = "LONGOFSTART"
     
